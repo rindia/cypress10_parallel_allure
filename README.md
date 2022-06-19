@@ -27,7 +27,7 @@
 | ` -t 2 -d` | `number` | **Required**. pass number of browser you want , example - ` -t 2 -d`  |
 
 
-## How to generate allure report affter exeution
+## How to generate allure report after exeution
 
 ```http
 allure generate allure-results --clean -o allure-report
@@ -37,7 +37,7 @@ allure generate allure-results --clean -o allure-report
 ## Important
 
 ```http
- cypress.config.js is the cypress.json file, here you can define cypress configuraion.
+ cypress.config.js is the cypress.json file (before cypress 10 version), here you can define cypress configuraion.
 ```
 
 
