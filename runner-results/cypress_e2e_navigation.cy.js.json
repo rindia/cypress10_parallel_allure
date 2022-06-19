@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 3,
+  "passes": 3,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-19T05:59:35.187Z",
+  "duration": 5102,
+  "file": "cypress\\e2e\\navigation.cy.js"
+}

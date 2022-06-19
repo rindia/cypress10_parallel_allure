@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 18,
+  "passes": 18,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-19T06:00:03.684Z",
+  "duration": 6470,
+  "file": "cypress\\e2e\\traversal.cy.js"
+}

@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 5,
+  "passes": 5,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-19T05:59:57.084Z",
+  "duration": 4405,
+  "file": "cypress\\e2e\\querying.cy.js"
+}
